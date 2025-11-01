@@ -20,20 +20,22 @@
 
 ## 📑 Table of Contents
 
-- [📋 Description](#description)
-- [✨ Features](#features)
-- [🚀 Installation and Setup](#installation-and-setup)
-- [⌨️ Bot Commands](#bot-commands)
-- [🔧 API Integration](#api-integration)
-- [🤝 Contributing](#contributing)
-- [📞 Support](#support)
-- [🙏 Acknowledgments](#acknowledgments)
-- [🗺️ Roadmap](#roadmap)
-- [❓ FAQ](#faq)
+- [📋 Description](#-description)
+- [✨ Features](#-features)
+- [🚀 Installation and Setup](#-installation-and-setup)
+- [⌨️ Bot Commands](#-bot-commands)
+- [🔧 API Integration](#-api-integration)
+- [🤝 Contributing](#-contributing)
+- [📞 Support](#-support)
+- [🙏 Acknowledgments](#-acknowledgments)
+- [🗺️ Roadmap](#-roadmap)
+- [❓ FAQ](#-faq)
 
-## 📋 Description  
+## 📋 Description
 
-Daily_Assistant_bot is an intelligent assistant that notifies users about daily attributes of our lives, such as weather, currency exchange rates, traffic information, and more. The bot adapts to your location to provide personalized information.
+Daily_Assistant_bot is an intelligent assistant that notifies users about daily attributes of our lives, such as
+weather, currency exchange rates, traffic information, and more. The bot adapts to your location to provide personalized
+information.
 
 **Telegram Username:** [@DailyInformationAssistant_bot](https://t.me/DailyInformationAssistant_bot)
 
@@ -57,24 +59,27 @@ Daily_Assistant_bot is an intelligent assistant that notifies users about daily 
 
 ### Installation Steps
 
-1. **Clone the repository**
+***1*** **Clone the repository**
+
 ```bash
 git clone https://github.com/VladBus/Daily_Assistant_bot.git
 cd Daily_Assistant_bot
 ```
 
-2. **Create virtual environment**
+***2*** **Create virtual environment**
+
 ```bash
 python -m venv venv
 source venv/bin/activate  # for Windows: venv\Scripts\activate
 ```
 
-3. **Install dependencies**
+***3*** **Install dependencies**
+
 ```bash
 pip install -r requirements.txt
 ```
 
-4. **Set up environment variables**
+***4*** **Set up environment variables**
 
 Create a ```.env``` file in the project root:
 
@@ -84,12 +89,13 @@ WEATHER_API_KEY=your_weather_api_key_here
 CURRENCY_API_KEY=your_currency_api_key_here
 ```
 
-5. **Run the bot**
+***5*** **Run the bot**
+
 ```bash
 python main.py
 ```
 
-### ⌨️ Bot Commands
+## ⌨️ Bot Commands
 
 + ```/start``` - Initialize the bot and get welcome message
 + ```/help``` - Get help with available commands
@@ -100,7 +106,7 @@ python main.py
 + ```/settings``` - Configure notification preferences
 + ```/location``` - Set or update your location
 
-### 🔧 API Integration
+## 🔧 API Integration
 
 The bot integrates with multiple APIs to provide comprehensive information:
 
@@ -108,7 +114,7 @@ The bot integrates with multiple APIs to provide comprehensive information:
 + [Currency API](https://www.exchangerate-api.com/) for exchange rates
 + [Google Maps API](https://developers.google.com/maps?hl=ru) for traffic information
 
-### 🤝 Contributing
+## 🤝 Contributing
 
 We welcome contributions to the project! Please follow these steps:
 
@@ -117,8 +123,8 @@ We welcome contributions to the project! Please follow these steps:
 3. Commit your changes (```git commit -m 'Add some AmazingFeature'```)
 4. Push to the branch (```git push origin feature/AmazingFeature```)
 5. Open a Pull Request
-  
-### 📞 Support
+
+## 📞 Support
 
 If you have any questions or issues:
 
@@ -130,34 +136,33 @@ If you have any questions or issues:
     + Telegram: [@pankmomon](https://t.me/pankmomon)
     + Email: [buvlad2002@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=buvlad2002@gmail.com)
 
-### 🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 + [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI) for the excellent Telegram bot library
 + [OpenWeatherMap](https://openweathermap.org/) for weather data API
 + [ExchangeRate-API](https://www.exchangerate-api.com/) for currency exchange rates
 + The developer community for valuable contributions and suggestions
 
-### 🗺️ Roadmap
- 
- + Multi-language support
- + Integration with additional APIs
- + Web interface for bot management
- + Advanced usage analytics
- + Plugin system for extended functionality
- + Machine learning for personalized recommendations
- + Voice command support
- + Integration with smart home devices
+## 🗺️ Roadmap
 
-### ❓ FAQ
++ Multi-language support
++ Integration with additional APIs
++ Web interface for bot management
++ Advanced usage analytics
++ Plugin system for extended functionality
++ Machine learning for personalized recommendations
++ Voice command support
++ Integration with smart home devices
 
-| Questions | Answers |
-| --------- | ------- |
-| :arrow_forward: Q: How do I add the bot to my chat? | :arrow_backward: A: Find the bot by username @DailyInformationAssistant_bot and click "Start" or "Add to Chat". |
-| :arrow_forward: Q: Can I customize notification times? | :arrow_backward: A: Yes, use the /settings command to configure your personalized schedule. |
-| :arrow_forward: Q: How often is the information updated? | :arrow_backward: A: Information is updated in real-time, but you can set custom update intervals in settings. |
-| :arrow_forward: Q: Is my location data secure? | :arrow_backward: A: Yes, all location data is encrypted and used solely for providing personalized information. |
+## ❓ FAQ
+
+| Questions                                                | Answers                                                                                                         |
+|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| :arrow_forward: Q: How do I add the bot to my chat?      | :arrow_backward: A: Find the bot by username @DailyInformationAssistant_bot and click "Start" or "Add to Chat". |
+| :arrow_forward: Q: Can I customize notification times?   | :arrow_backward: A: Yes, use the /settings command to configure your personalized schedule.                     |
+| :arrow_forward: Q: How often is the information updated? | :arrow_backward: A: Information is updated in real-time, but you can set custom update intervals in settings.   |
+| :arrow_forward: Q: Is my location data secure?           | :arrow_backward: A: Yes, all location data is encrypted and used solely for providing personalized information. |
 
 <hr>
 
 ⭐ **If you find this project useful, please give it a star!**
-
