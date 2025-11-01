@@ -37,10 +37,35 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Temporary Files
+# Temporary Files and Pictures
 tmp/
 temp/
 *.tmp
+*.temp
+assets/bot/temp/
+assets/bot/cache/
+assets/bot/generated/
+
+# folrers for develop
+assets/development/
+assets/drafts/
+assets/source_files/
+
+# Files Photoshop/Illustrator
+*.psd
+*.ai
+*.sketch
+
+# Big mediafiles (>10MB)
+*.mov
+*.mp4
+*.avi
+*.zip
+*.rar
+
+# Logs
+*.log
+logs/
 
 # Unit test / coverage reports
 htmlcov/
@@ -61,7 +86,6 @@ coverage.xml
 *.pot
 
 # Django stuff:
-*.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -153,7 +177,6 @@ Thumbs.db
 
 # Local data files
 data/
-logs/
 *.db
 *.sqlite
 
@@ -161,3 +184,11 @@ logs/
 # If you store any bot-specific data locally, like session files or user data dumps
 bot.session
 user_data.json
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Windows
+ehthumbs.db
+Desktop.ini
