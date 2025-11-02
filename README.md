@@ -5,7 +5,7 @@
 </div>
 
 <div style="text-align: center;">
-    <h1> Daily Assistant bot </h1>
+    <h1>Daily Assistant bot</h1>
 </div>
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
@@ -143,7 +143,7 @@ If you have any questions or issues:
 3. Contact us directly:
 
     + GitHub: [VladBus](https://github.com/VladBus)
-    + Telegram: [@pankmomon](https://t.me/pankmomon)
+    + Telegram: [Vlad Busev](https://t.me/pankmomon)
     + Email: [buvlad2002@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=buvlad2002@gmail.com)
 
 ## 🙏 Acknowledgments
