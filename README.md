@@ -1,4 +1,12 @@
-# **Daily_Assistant_bot**
+<div style="text-align: center;">
+  <a href="https://t.me/DailyInformationAssistant_bot">
+    <img src="assets/readme/banner.png" alt="Banner_image_and_URL_for_tg">
+  </a>
+</div>
+
+<div style="text-align: center;">
+    <h1> Daily Assistant bot </h1>
+</div>
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -16,7 +24,9 @@
 
 <hr>
 
-📊 ***A bot designed to provide users with daily insights into various aspects of their lives.*** 📆
+## ***🔗 [Link to Daily_Assistant_bot](https://t.me/DailyInformationAssistant_bot)***
+
+> ***A bot designed to provide users with daily insights into various aspects of their lives.***
 
 ## 📑 Table of Contents
 
@@ -33,11 +43,11 @@
 
 ## 📋 Description
 
-Daily_Assistant_bot is an intelligent assistant that notifies users about daily attributes of our lives, such as
-weather, currency exchange rates, traffic information, and more. The bot adapts to your location to provide personalized
-information.
-
-**Telegram Username:** [@DailyInformationAssistant_bot](https://t.me/DailyInformationAssistant_bot)
+>
+>**Daily_Assistant_bot is an intelligent assistant that notifies users about daily attributes of our lives, such as
+> weather, currency exchange rates, traffic information, and more. The bot adapts to your location to provide
+personalized
+> information.**
 
 ## ✨ Features
 
