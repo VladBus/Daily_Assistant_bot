@@ -4,9 +4,7 @@
   </a>
 </div>
 
-<div style="text-align: center;">
-    <h1>Daily Assistant bot</h1>
-</div>
+<h1 style="text-align: center;">Daily Assistant bot</h1>
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
