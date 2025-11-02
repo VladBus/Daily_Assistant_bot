@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 style="text-align: center;">Daily Assistant bot</h1>
+<h1 align="center">Daily Assistant Bot</h1>
 
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -42,10 +42,9 @@
 ## 📋 Description
 
 >
->**Daily_Assistant_bot is an intelligent assistant that notifies users about daily attributes of our lives, such as
+> **Daily_Assistant_bot is an intelligent assistant that notifies users about daily attributes of our lives, such as
 > weather, currency exchange rates, traffic information, and more. The bot adapts to your location to provide
-personalized
-> information.**
+> personalized information.**
 
 ## ✨ Features
 
